@@ -3,16 +3,17 @@ body {
     text-align: center;
 }
 
-h1 {
-    color: white;
-}
 
+h1,
 .link {
     color: white;
+    font-family: 'Titilium Web', sans-serif, 'Times New Roman';
 }
 
 img {
     height: auto;
     width: 650px;
 }
+
+
 
