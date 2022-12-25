@@ -32,7 +32,8 @@ h1, h2 {
 }
 
 
-.intro img {
+.intro img,
+.recipe img {
     height: auto;
     width: 500px;
 }
