@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(24, 24, 24);
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Titilium Web', sans-serif, 'Times New Roman';
+}
+
+.faq {
+    color: grey;
+    font-family: 'Titilium Web', sans-serif, 'Times New Roman';
+    font-size: 18px;
+}
+
+.faq .point,
+.faq .link,
+.faq h3 {
+    color: white;
+}
