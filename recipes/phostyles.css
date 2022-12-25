@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(24, 24, 24);
+}
+
+h1, h2 {
+    color: white;
+    font-family: sans-serif, 'Times New Roman';
+    text-align: center;
+}
+
+
+.intro,
+.recipe,
+.relevant,
+.source {
+    color: grey;
+    font-family: 'Titilium Web', sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.recipe .link {
+    color: white;
+}
+
+
+.relevant,
+.relevant .link{
+    color: white;
+    text-align: left;
+
+}
+
+
+.intro img {
+    height: auto;
+    width: 500px;
+}
+
+.recipe img {
+    height: auto;
+    width: 500px;
+}
+
+.source,
+.source .link {
+    color: white;
+    text-align: left;
+}
+
+
+
+
+
