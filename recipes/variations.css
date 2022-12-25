@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(24, 24, 24);
+    text-align: center;
+}
+
+h1, h2 {
+    color: white;
+    font-family: 'Titilium Web', sans-serif, 'Times New Roman';
+}
+
+.variety {
+    color: grey;
+    font-family: 'Titilium Web', sans-serif, 'Times New Roman';
+    font-size: 18px;
+    text-align: center;
+}
+
+.variety .link,
+.variety .point {
+    color: white;
+}
+
+.variety img {
+    height: auto;
+    width: 500px;
+}
